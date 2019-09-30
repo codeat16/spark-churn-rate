@@ -41,7 +41,6 @@ The important features analysis give additional insight to look for earning warn
 ## Files
 
 - `README.md`: this file
-- `mini_sparkify_event_data.json`: mini dataset for analysis
 - `Sparkify.html`: html verion of the Jupyter Notebook
 - `Sparkify.ipynb`: Jupyter Notebook for the analysis and reporting
 
